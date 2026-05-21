@@ -1,2 +1,21 @@
-# construction-cost-estimation-ml
-Machine learning based construction cost estimation system developed using Python and predictive analytics to estimate project costs, analyze construction parameters and improve budget planning accuracy.
+# Construction Cost Estimation Using Machine Learning
+
+## Overview
+This project uses machine learning techniques to estimate construction project costs based on various construction parameters and historical data.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+## Features
+- Cost prediction
+- Data preprocessing
+- Budget estimation
+- Predictive analytics
+- Data visualization
+
+## Author
+Sirisha Madineni
